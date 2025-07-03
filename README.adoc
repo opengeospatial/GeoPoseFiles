@@ -1,4 +1,4 @@
-# GeoPoseWrappers
+# GeoPose Files
 
 In this repo, members of the OGC GeoPose SWG are developing Wrappers for GeoPose developers.
 
