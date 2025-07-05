@@ -1,2 +1,2 @@
-After a SWG meeting, upload the PPT file to this directory. 
-To view a meeting file, click on the "download" button and place on your local drive. 
+After a SWG meeting, upload the PPT file to this directory by dragging and dropping. 
+These files are considered "raw" by GitHub. To view a meeting file, click on the "download" symbol to place it on your local drive. Then open normally.
